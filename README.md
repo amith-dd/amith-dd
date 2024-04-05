@@ -1,4 +1,4 @@
-<!-- # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=800&color=fa8072&lines=Hi+there+%F0%9F%91%8B+This+is+Raju+mb;I'm+a+java+Developer+!!) -->
+<!-- # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=800&color=fa8072&lines=Hi+there+%F0%9F%91%8B+This+is+Amit;I'm+a+java+Developer+!!) -->
 
 <!-- <p align="center">
   <a href="https://github.com/DenverCoder1">
